@@ -8,7 +8,7 @@ from io import BytesIO
 # -------------------------
 # CONFIG
 # -------------------------
-JSON_URL = "https://files.catbox.moe/m5u6ve.json"
+JSON_URL = "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/steamgamepatcher/refs/heads/main/games.json"
 
 # -------------------------
 # GLOBALS
@@ -289,5 +289,6 @@ patch_btn.pack(pady=12)
 status_var = ctk.StringVar(value="")
 status_label = ctk.CTkLabel(main_frame, textvariable=status_var)
 status_label.pack(pady=4)
+
 
 root.mainloop()
