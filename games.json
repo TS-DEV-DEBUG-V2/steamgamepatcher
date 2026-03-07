@@ -18,18 +18,19 @@
     {
       "name": "Red Dead Redemption 2",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQyF_sHtASdGUQjyO5lfH1Wihp0-CzRlgfAQ&s",
-      "game_banner": "https://files.catbox.moe/ebapwa.png",
+      "game_banner": "https://m.media-amazon.com/images/I/71xeX+uUF1L._AC_UF894,1000_QL80_.jpg",
       "patch_url": "https://github.com/TS-DEV-DEBUG-V2/steamgamepatcher/releases/download/patch/rdr2_fx.zip",
       "instructions": "1. Make sure the game is not working before patching\n2. Select the install folder\n3. Hit PATCH GAME and you're done!"
     },
     {
       "name": "Red Dead Redemption",
       "logo": "https://pbs.twimg.com/media/GZmc-AkXUBATwFD.png",
-      "game_banner": "https://files.catbox.moe/cnfpx0.png",
+      "game_banner": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/red-dead-redemption/7/77/Rdr.jpeg?width=1280",
       "patch_url": "https://github.com/TS-DEV-DEBUG-V2/steamgamepatcher/releases/download/patch/rdr_bypass.zip",
       "instructions": "1. Make sure the game is not working before patching\n2. Select the install folder\n3. Hit PATCH GAME and you're done!"
     }
   ]
 
 }
+
 
