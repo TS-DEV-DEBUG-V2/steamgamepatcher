@@ -1,0 +1,26 @@
+{
+  "github": "https://github.com/yourname/yourrepo",
+  "discord": "https://discord.gg/yourinvite",
+
+  "icons": {
+    "github": "https://cdn-icons-png.flaticon.com/256/25/25231.png",
+    "discord": "https://cdn-icons-png.flaticon.com/512/5968/5968756.png"
+  },
+
+  "games": [
+    {
+      "name": "Grand Theft Auto 5",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREgYm5lfWvHWWFiSUOikrMSCAhgIJSFHOr_A&s",
+      "game_banner": "https://www.gtabase.com/images/jch-optimize/ng/images_gta-5_sections_banner.webp",
+      "patch_url": "https://cdn.example.com/games/examplegame/patch.zip",
+      "instructions": "1. Select your game folder (where the .exe is)\n2. Click PATCH GAME\n3. Launch the game and enjoy!"
+    },
+    {
+      "name": "Another Game",
+      "logo": "https://cdn.example.com/games/anothergame/logo.png",
+      "game_banner": "https://cdn.example.com/games/anothergame/banner.png",
+      "patch_url": "https://cdn.example.com/games/anothergame/patch.zip",
+      "instructions": "1. Close the game before patching\n2. Select the install folder\n3. Hit PATCH GAME and you're done!"
+    }
+  ]
+}
