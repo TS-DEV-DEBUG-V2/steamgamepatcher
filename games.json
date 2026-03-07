@@ -25,6 +25,13 @@
     {
       "name": "Red Dead Redemption",
       "logo": "https://pbs.twimg.com/media/GZmc-AkXUBATwFD.png",
+      "game_banner": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/red-dead-redemption/7/77/Rdr.jpeg",
+      "patch_url": "https://github.com/TS-DEV-DEBUG-V2/steamgamepatcher/releases/download/patch/rdr_bypass.zip",
+      "instructions": "1. Make sure the game is not working before patching\n2. Select the install folder\n3. Hit PATCH GAME and you're done!"
+    },
+    {
+      "name": "FIFA 22",
+      "logo": "https://www.psu.com/wp/wp-content/uploads/2021/06/fifa-22-beta-details-and-images-leak-from-the-playstation-network-6.jpg",
       "game_banner": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/red-dead-redemption/7/77/Rdr.jpeg?width=1280",
       "patch_url": "https://github.com/TS-DEV-DEBUG-V2/steamgamepatcher/releases/download/patch/rdr_bypass.zip",
       "instructions": "1. Make sure the game is not working before patching\n2. Select the install folder\n3. Hit PATCH GAME and you're done!"
@@ -32,5 +39,6 @@
   ]
 
 }
+
 
 
