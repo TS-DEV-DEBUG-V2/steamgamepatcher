@@ -10,7 +10,7 @@
   "games": [
     {
       "name": "Grand Theft Auto 5",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREgYm5lfWvHWWFiSUOikrMSCAhgIJSFHOr_A&s",
+      "logo": "https://i.ibb.co/zW7YtYJs/c1.png",
       "game_banner": "https://www.gtabase.com/images/jch-optimize/ng/images_gta-5_sections_banner.webp",
       "patch_url": "https://cdn.example.com/games/examplegame/patch.zip",
       "instructions": "1. Select your game folder (where the .exe is)\n2. Click PATCH GAME\n3. Launch the game and enjoy!"
@@ -39,6 +39,7 @@
   ]
 
 }
+
 
 
 
