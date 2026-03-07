@@ -16,11 +16,12 @@
       "instructions": "1. Select your game folder (where the .exe is)\n2. Click PATCH GAME\n3. Launch the game and enjoy!"
     },
     {
-      "name": "Another Game",
-      "logo": "https://cdn.example.com/games/anothergame/logo.png",
-      "game_banner": "https://cdn.example.com/games/anothergame/banner.png",
+      "name": "Red Dead Redemption 2",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQyF_sHtASdGUQjyO5lfH1Wihp0-CzRlgfAQ&s",
+      "game_banner": "https://files.catbox.moe/ebapwa.png",
       "patch_url": "https://cdn.example.com/games/anothergame/patch.zip",
-      "instructions": "1. Close the game before patching\n2. Select the install folder\n3. Hit PATCH GAME and you're done!"
+      "instructions": "1. Make sure the game is not working before patching\n2. Select the install folder\n3. Hit PATCH GAME and you're done!"
     }
   ]
+
 }
