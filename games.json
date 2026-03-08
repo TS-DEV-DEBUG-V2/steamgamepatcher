@@ -35,7 +35,7 @@
       "game_banner": "https://assets.isthereanydeal.com/018d937f-526f-70b8-ab59-0cf464273be0/banner400.jpg",
       "patch_url": "https://github.com/TS-DEV-DEBUG-V2/steamgamepatcher/releases/download/patch/rdr_bypass.zip",
       "instructions": "1. Make sure the game is not working before patching\n2. Select the install folder\n3. Hit PATCH GAME and you're done!" 
-    }
+    },
     {
       "name": "Grand Theft Auto Vice City Definitive Edition",
       "logo": "https://files.catbox.moe/u6tzil.png",
@@ -46,6 +46,7 @@
   ]
 
 }
+
 
 
 
