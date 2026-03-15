@@ -13,14 +13,14 @@
       "logo": "https://i.ibb.co/zW7YtYJs/c1.png",
       "game_banner": "https://www.gtabase.com/images/jch-optimize/ng/images_gta-5_sections_banner.webp",
       "patch_url": "https://github.com/TS-DEV-DEBUG-V2/steamgamepatcher/releases/download/patch/gta5legacy_bypass.zip",
-      "instructions": "1. Select your game folder (where the .exe is)\n2. Click PATCH GAME\n3. Launch the game and enjoy!"
+      "instructions": "1. Select your game folder (where the .exe is)\n2. Click PATCH GAME\n3. Launch the game and enjoy!\n4 MAKE SURE TO ADD %nobattleye% in steam launch options or else it wont work !"
     },
     {
       "name": "Red Dead Redemption 2",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQyF_sHtASdGUQjyO5lfH1Wihp0-CzRlgfAQ&s",
       "game_banner": "https://m.media-amazon.com/images/I/71xeX+uUF1L._AC_UF894,1000_QL80_.jpg",
       "patch_url": "https://github.com/TS-DEV-DEBUG-V2/steamgamepatcher/releases/download/patch/rdr2_fx.zip",
-      "instructions": "1. Make sure the game is not working before patching\n2. Select the install folder\n3. Hit PATCH GAME and you're done!"
+      "instructions": "1. Make sure the game is not working before patching\n2. Select the install folder\n3. Hit PATCH GAME and you're done!\n4. MAKE SURE TO ADD \"GAMELOCATION\\\\RDR2Launcher.exe\" %command% in steam launch options!"
     },
     {
       "name": "Red Dead Redemption",
@@ -41,6 +41,13 @@
       "logo": "https://i.ibb.co/6Jy8kvJG/Screenshot-2026-03-08-195545-removebg-preview.png",
       "game_banner": "https://images.launchbox-app.com/70d017b7-085f-4a8e-ba1f-513fd101b20e.jpg",
       "patch_url": "https://github.com/TS-DEV-DEBUG-V2/steamgamepatcher/releases/download/patch/gtavcde_bypass.zip",
+      "instructions": "1. Make sure the game is not working before patching\n2. Select the install folder\n3. Hit PATCH GAME and you're done!"
+    },
+    {
+      "name": "Grand Theft Auto San Andreas Definitive Edition",
+      "logo": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/steamgamepatcher/refs/heads/main/images/gtasade_ICON.png",
+      "game_banner": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/steamgamepatcher/refs/heads/main/images/gtasade_BANNER.jfif",
+      "patch_url": "https://github.com/TS-DEV-DEBUG-V2/steamgamepatcher/releases/download/patch/gtasade_FIX.zip",
       "instructions": "1. Make sure the game is not working before patching\n2. Select the install folder\n3. Hit PATCH GAME and you're done!"
     }
   ]
